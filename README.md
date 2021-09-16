@@ -15,9 +15,12 @@ Installations and Procedure:-
 ## This Python 3 environment comes with many helpful analytics libraries installed
 It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
 For example, here's several helpful packages to load in:
-1.pandas 
+
+1.pandas
+
 2. numpy 
-3. seaborn
-4. matplotlib
+3. 
+4. seaborn
+5. matplotlib
 
 
